@@ -7,7 +7,6 @@ import com.facebook.react.defaults.DefaultReactActivityDelegate;
 import io.flexn.create.TvRemoteHandlerModule;
 
 public class MainActivity extends ReactActivity {
-
   @Override
   public boolean onKeyUp(int keyCode, KeyEvent event) {
     TvRemoteHandlerModule.getInstance().onKeyEvent(event, "up");

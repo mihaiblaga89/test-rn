@@ -13,7 +13,8 @@
     "@flexn/create": "0.21.2-alpha.38",
     "@flexn/shopify-flash-list": "1.4.8",
     "react": "18.2.0",
-    "react-native": "npm:react-native-tvos@0.71.11-0"
+    "react-native": "npm:react-native-tvos@0.71.11-0",
+    "react-native-vector-icons": "^9.2.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
